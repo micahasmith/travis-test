@@ -16,7 +16,7 @@
     "jasmine-node":"1.0.25"
   },
   "scripts":{
-    "test":"jasmine-node --verbose tests/"
+    "test":"jasmine-node --verbose --matchall tests/"
   },
   "engines": { "node": ">= 0.4.0" }
 }
