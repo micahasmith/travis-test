@@ -1,7 +1,7 @@
 {
   "name": "travis-test",
   "description": "Testing travis ci and jasmine integration",
-  "author": "Nodejitsu Inc <info@nodejitsu.com>",
+  "author": "micah.a.smith <micah.a.smith@gmail.com>",
   "version": "0.0.1",
   "maintainers": [ "micah.a.smith <micah.a.smith@gmail.com>" ],
   "contributors": [
@@ -13,7 +13,7 @@
   },
   "keywords": ["travis ci","jasmine"],
   "devDependencies": {
-
+    "colors":"0.5.x"
   },
-  "engines": { "node": ">= 0.4.0" },
+  "engines": { "node": ">= 0.4.0" }
 }
