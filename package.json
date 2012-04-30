@@ -13,7 +13,10 @@
   },
   "keywords": ["travis ci","jasmine"],
   "devDependencies": {
-    "colors":"0.5.x"
+    "jasmine-node":"1.0.25"
+  },
+  "scripts":{
+    "test":"jasmine-node tests/madeuptest.js --verbose"
   },
   "engines": { "node": ">= 0.4.0" }
 }
