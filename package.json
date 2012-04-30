@@ -16,7 +16,7 @@
     "jasmine-node":"1.0.25"
   },
   "scripts":{
-    "test":"jasmine-node tests/madeuptest.js --verbose"
+    "test":"jasmine-node --verbose tests/"
   },
   "engines": { "node": ">= 0.4.0" }
 }
