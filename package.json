@@ -1,0 +1,19 @@
+{
+  "name": "travis-test",
+  "description": "Testing travis ci and jasmine integration",
+  "author": "Nodejitsu Inc <info@nodejitsu.com>",
+  "version": "0.0.1",
+  "maintainers": [ "micah.a.smith <micah.a.smith@gmail.com>" ],
+  "contributors": [
+    { "name": "Micah Smith", "email": "micah.a.smith@gmail.com" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/micahasmith/travis-test.git"
+  },
+  "keywords": ["travis ci","jasmine"],
+  "devDependencies": {
+
+  },
+  "engines": { "node": ">= 0.4.0" },
+}
